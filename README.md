@@ -60,10 +60,10 @@ I’m a passionate and social IT student who loves taking on challenges that req
 - **Restaurant Table Reservation System**  
   *JavaScript, React, Prisma ORM*
 
-- **State Machine Simulator**
+- **State Machine Simulator**  
   *JavaScript, React*
 
-- **OEE Calculator and Dashboarding**
+- **OEE Calculator and Dashboarding**  
   *MQTT, Node-RED, InfluxDB, Grafana, C#*
 
 ---
